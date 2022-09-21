@@ -10,7 +10,7 @@ function banner() {
 	printf "\n"
 }
 
-repoargs=("-n -R amos-nemesis-repo.db.tar.gz *.pkg.tar.zst")
+repoargs=("-n -R amanre-nemesis-repo.db.tar.gz *.pkg.tar.zst")
 
 rm -f  amoslinux-repo*
 
